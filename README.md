@@ -8,3 +8,11 @@ The original dataset was obtained from the 1994 U.S. Census database. The census
 http://localhost:8888/notebooks/Downloads/income%20prediction/income-analysis-prediction.ipynb#:~:text=Train%20DF%20Information%3A%0A%3Cclass,None
 
 # Features
+Image based income prediction: upload image of income prediction
+Demo video: Visual walkthrough to guide users
+
+
+
+
+
+
