@@ -5,27 +5,4 @@ Salary data is important for many businesses as it can play a significant role i
 # About Dataset
 
 The original dataset was obtained from the 1994 U.S. Census database. The census is performed every decade within the United States. It gathers information on the population living within the country. The information captured from the census consists of data on age, gender, country of origin, marital status, housing conditions, marriage, education, employment, etc. The sneakpeak of the dataset is as follows:
-Train DF Information:
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 43957 entries, 0 to 43956
-Data columns (total 15 columns):
- #   Column           Non-Null Count  Dtype 
----  ------           --------------  ----- 
- 0   age              43957 non-null  int64 
- 1   workclass        41459 non-null  object
- 2   fnlwgt           43957 non-null  int64 
- 3   education        43957 non-null  object
- 4   educational-num  43957 non-null  int64 
- 5   marital-status   43957 non-null  object
- 6   occupation       41451 non-null  object
- 7   relationship     43957 non-null  object
- 8   race             43957 non-null  object
- 9   gender           43957 non-null  object
- 10  capital-gain     43957 non-null  int64 
- 11  capital-loss     43957 non-null  int64 
- 12  hours-per-week   43957 non-null  int64 
- 13  native-country   43194 non-null  object
- 14  income_>50K      43957 non-null  int64 
-dtypes: int64(7), object(8)
-memory usage: 5.0+ MB
-None
+http://localhost:8888/notebooks/Downloads/income%20prediction/income-analysis-prediction.ipynb#:~:text=Train%20DF%20Information%3A%0A%3Cclass,None
