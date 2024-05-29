@@ -14,6 +14,58 @@ Demo video: Visual walkthrough to guide users
 https://github.com/niranjan122345/niranjan123tutorial/assets/143377183/3a65e842-ca84-4ef8-a443-74127eaa4b3b
 
 # Approach
+Data description
+
+    * We will be using Income prediction dataset in the kaggle repository. This data set is satisfying our data requirement.
+
+* Data splitting
+
+   * We split the data here for our train and test data for further uses.
+
+* Data Preprocessing
+
+  * As our data is full of categorical values, so we can convert all those to numerical values by label encoding.
+
+* Model training
+
+ * We trained various model in our notebook and svc was good on it.
+
+* Model saving
+
+ * We will save our model that we can use them for prediction purpose.
+
+* data for prediction purpose
+
+ * Now our application on cloud is ready for doing prediction.
+
+* Data processing and prediction
+
+ * Client data will also go along the same process. Data pre processing and according to that we will predict those data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
