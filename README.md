@@ -42,7 +42,7 @@ Data description
 
  * Client data will also go along the same process. Data pre processing and according to that we will predict those data.
 
-
+# Implication project for future studies
 
 
 
