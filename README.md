@@ -44,7 +44,9 @@ Data description
 
 # Implication project for future studies
 
+Dataset gathers income information about people living in America in 1994. The data tracks age, education, marital status, hours worked and shares how much money an individual brings home based on those characteristics. The implications of this project may help society to determine what a person living in America needs to do to acquire a better income, while also bringing to light possible discrimination. It shows how working more hours has a better chance of improving your earning potential. It also shows a correlation between being married and income. Generally, it seems married couples on average have a better chance of making more than 50,000 than a single person.
 
+This model can be used to analyze data of any year. We can update the datasource and use the same code to derive our socioeconomic conclusions. By adding more recent observations of individuals to the dataset, we can also build a predictive model which takes present salary data into consideration.
 
 
 
