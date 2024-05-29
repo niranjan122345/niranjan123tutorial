@@ -10,8 +10,8 @@ http://localhost:8888/notebooks/Downloads/income%20prediction/income-analysis-pr
 # Features
 Image based income prediction: upload image of income prediction
 Demo video: Visual walkthrough to guide users
-
-
+# Demo video
+https://github.com/niranjan122345/niranjan123tutorial/assets/143377183/3a65e842-ca84-4ef8-a443-74127eaa4b3b
 
 
 
